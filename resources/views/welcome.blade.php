@@ -8,7 +8,8 @@
 </head>
 <body>
     <div>
-    <h1>Welcome to cars</h1>   
+    <h1>Welcome {{$name}}</h1>
+    <h2>I'm {{$age}} years old</h2>   
     </div> 
 </body>
 </html>
